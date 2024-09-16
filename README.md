@@ -5,6 +5,7 @@
 - 📫 How to reach me ... hi.rachel.flory @ gmail. all my socials are phantasmajones
 - 😄 Pronouns: ... they/she
 - ⚡ Fun fact: ... i love unicorns
+- 💻 Website: http://phantasmajones.net
 
 <!---
 phantasmajones/phantasmajones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
